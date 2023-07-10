@@ -1,6 +1,6 @@
 package ch03;// 입력 키보드 input
 
-public class Scanner {
+public class ScannerTest {
     public static void main(String[] args) {
         java.util.Scanner input = new java.util.Scanner(System.in);
 
