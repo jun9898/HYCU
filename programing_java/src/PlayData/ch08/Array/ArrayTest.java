@@ -1,4 +1,4 @@
-package PlayData.Array;
+package PlayData.ch08.Array;
 public class ArrayTest {
     public static void main(String[] args) {
         int[] scores = new int[10];

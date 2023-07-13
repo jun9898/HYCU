@@ -1,4 +1,4 @@
-package PlayData.Type;
+package PlayData.ch08.Type;
 
 public class TypeTest {
     public static void main(String[] args) {
